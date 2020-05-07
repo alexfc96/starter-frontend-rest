@@ -18,11 +18,17 @@ Just a litle API for educational purposes.
 
 ## User Stories
 
+**200** - Work fine
+
+**401** - Unauthorized
+
 **404** - As a user I want to see a nice 404 page when I go to a page that doesn’t exist so that I know it was my fault
 
 **405** - Method not allowed
 
 **409** - Already exists
+
+**422** - Validation error (form empty) or user already exists
 
 **500** - As a user I want to see a nice error page when the super team screws it up so that I know that is not my fault
 
